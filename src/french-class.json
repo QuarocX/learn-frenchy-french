@@ -1,0 +1,44 @@
+{
+  "quickActivities": [
+    {
+      "name": "Daily Vocabulary Flashcards",
+      "description": "Create a set of 5 flashcards with new French words or phrases related to your daily theme. Review them aloud."
+    },
+    {
+      "name": "Mirror Practice",
+      "description": "Stand in front of a mirror and practice introducing yourself in French, focusing on pronunciation and body language."
+    },
+    {
+      "name": "Phrase Repetition",
+      "description": "Choose a common phrase (e.g., 'Bonjour! Comment ça va?') and repeat it 10 times, gradually increasing your speed."
+    },
+    {
+      "name": "Mini Role-Play",
+      "description": "Pretend to order a coffee at a café. Use a script or improvise, speaking both roles (you and the waiter)."
+    },
+    {
+      "name": "Listening Exercise",
+      "description": "Listen to a short French audio clip (like a podcast snippet) and summarize what you heard in one sentence."
+    },
+    {
+      "name": "Word Association Game",
+      "description": "Say a French word and quickly come up with another word that relates to it. For example, 'pain' (bread) could lead to 'beurre' (butter)."
+    },
+    {
+      "name": "Picture Description",
+      "description": "Find a picture of a scene in France. Describe what you see in French, focusing on colors, objects, and actions."
+    },
+    {
+      "name": "Number Practice",
+      "description": "Practice counting from 1 to 20 in French. Try counting everyday objects around you."
+    },
+    {
+      "name": "Quick Quiz",
+      "description": "Create a 5-question quiz for yourself using vocabulary from the week. Answer them aloud."
+    },
+    {
+      "name": "Cultural Fact of the Day",
+      "description": "Look up one interesting fact about French culture or customs and summarize it in French."
+    }
+  ]
+}
